@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
