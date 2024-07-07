@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
