@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Linked List
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -83,9 +85,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
