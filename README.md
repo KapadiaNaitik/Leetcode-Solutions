@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
