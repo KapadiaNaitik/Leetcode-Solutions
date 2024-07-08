@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 ## Linked List
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
