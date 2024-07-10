@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1803-average-waiting-time](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## Linked List
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
