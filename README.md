@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0455-assign-cookies) |
