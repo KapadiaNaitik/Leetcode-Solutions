@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
