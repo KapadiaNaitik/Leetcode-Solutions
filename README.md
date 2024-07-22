@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Hash Table
 |  |
 | ------- |
