@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
