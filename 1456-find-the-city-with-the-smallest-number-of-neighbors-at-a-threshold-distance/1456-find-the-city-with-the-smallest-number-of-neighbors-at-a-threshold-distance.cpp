@@ -13,7 +13,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 for(int k=0;k<n;k++){
-                    distance[j][k]=min(distance[j][k],distance[j][i]+distance[i][k]);
+                    distance[j][k]=min(distance[j][k],distance[i][j]+distance[i][k]);
                 }
             }
         }
