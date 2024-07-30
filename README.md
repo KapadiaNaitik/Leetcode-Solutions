@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Stack
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
