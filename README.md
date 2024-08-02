@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Linked List
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
