@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0820-find-eventual-safe-states](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -245,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
