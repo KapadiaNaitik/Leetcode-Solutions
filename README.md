@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
