@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1036-rotting-oranges](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [1036-rotting-oranges](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
