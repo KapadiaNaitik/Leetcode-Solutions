@@ -29,6 +29,8 @@ public:
             }
             if(j-1>=0 && image[i][j-1]==prevColor){
                 s.push({i,j-1});
+                            image[i][j-1]=color;
+
             }
             
         }
