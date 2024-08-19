@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0650-2-keys-keyboard](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0650-2-keys-keyboard](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Monotonic Stack
 |  |
