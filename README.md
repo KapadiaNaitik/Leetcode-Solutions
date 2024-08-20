@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1720-crawler-log-folder](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KapadiaNaitik/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
