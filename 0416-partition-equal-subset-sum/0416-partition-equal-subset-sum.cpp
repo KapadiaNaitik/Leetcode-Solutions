@@ -7,10 +7,8 @@ public:
             sum+=nums[i];
         }
         if(sum%2!=0) return false;
-        cout<<sum<<endl;
         sum/=2;
-        cout<<sum<<endl;
-
+   
 
         vector<vector<bool>> dp(nums.size(),vector<bool>(sum+1,false));
         for(int i=0;i<nums.size();i++){
